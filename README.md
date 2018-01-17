@@ -3,7 +3,7 @@ Multipart Object Converter is an android library for fast and convenient convers
 It allows to customize format of outputted parts like GSON. Library has dependencies on okhttp3 and was originally created for usage with [retrofit](https://github.com/square/retrofit).
 
 ### Installation:
-For now you can import `multipart-object-converter-release.aar` file from `multipart-object-converter/build/outputs/aar/multipart-object-converter-release.aar` in this repo. Library is uploading to jCenter to be available through gradle and maven.
+For now you can import `multipart-object-converter-release.aar` file in this repo. Library is uploading to jCenter to be available through gradle and maven.
 
 ### Example:
 ```java

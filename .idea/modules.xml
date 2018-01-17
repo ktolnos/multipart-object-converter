@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MultipartDataConverter.iml" filepath="$PROJECT_DIR$/MultipartDataConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multipart-object-converter/multipart_object_converter.iml" filepath="$PROJECT_DIR$/multipart-object-converter/multipart_object_converter.iml" />
+    </modules>
+  </component>
+</project>
