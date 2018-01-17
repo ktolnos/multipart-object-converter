@@ -4,8 +4,10 @@ It allows to customize format of outputted parts like GSON. Library has dependen
 
 ### Installation:
 You can grab this library via Gradle:
+
 `compile 'com.wecandevelopit:multipart-object-converter:1.0.0'`
-or using Maven
+
+or using Maven:
 ```xml
 <dependency>
     <groupId>com.wecandevelopit</groupId>
@@ -42,4 +44,6 @@ Call<Object> testRequest(
 See? Simple! In fact, you can send object of any complexity with any number of files in three lines of code.
 There are more usage examples in sample project and jUnit tests.
 
-In sample project [Chuck Interceptor](https://github.com/jgilfelt/chuck) is used to inercept all http traffic, so when you click on `UPLOAD DATA` button a notification should appear. You can click it to inspect sent data. We don't need server for testing this way. To open sample project you need to clone or download this repository, and just open it with Android Studio.
+In sample project [Chuck Interceptor](https://github.com/jgilfelt/chuck) is used to inercept all http traffic, so when you click on `UPLOAD DATA` button a notification should appear. You can click it to inspect sent data. We don't need server for testing this way. To open sample project you need to clone or download this repository, and just open it with Android Studio, run module `app`.
+
+Feel free to make feature requests, bug reports, fork and contribute.
